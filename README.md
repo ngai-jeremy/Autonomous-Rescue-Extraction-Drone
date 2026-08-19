@@ -3,6 +3,10 @@ Autonomous Rescue &amp; Extraction Drone is an AI-powered octocopter drone desig
 
 ![A.R.E.D. Hero Image](https://github.com/ngai-jeremy/Autonomous-Rescue-Extraction-Drone/blob/main/images/Hero%20Image.jpg)
 
+3D Model Simulation: [SketchFab](https://skfb.ly/pMQLr) 
+
+How to open .asm model? You need to install Solid Edge by Siemens to see every bits of the model. Alternatively, I have also converted it into a .obj file above. 
+
 ## Key Features
 * **Foldable Carbon-Fiber Hull:** Heavy-duty articulated mechanical joints allow the arms to be folded for easy storage and transport.
 * **Coaxial 8-Rotor System:** Coaxial dual-motor layout provides heavy lifting for human harness.
