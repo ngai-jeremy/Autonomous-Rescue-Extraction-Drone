@@ -16,3 +16,5 @@ How to open the Assembly.asm model? You need to install Solid Edge by Siemens to
 ## Repository Structure 
 * `cad/`: Solid Edge 3D model assembly (.asm) and part (.par) files.
 * `docs/presentation-deck.pdf`: 3D design pitch deck.
+
+AI usage declaration: I used AI for idea brainstorming and to guide me on how to write my project slide presentation. No AI generated content was used.
